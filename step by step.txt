@@ -1,1 +1,4 @@
 npx create-react-app --template=typescript clone-homepage-tesla
+yarn add framer-motion styled-components
+yarn add -D @types/styled-components
+
